@@ -13,3 +13,6 @@ figure.dpi : 600
 font.size : 8
 font.family : serif
 font.serif : Times
+
+# Font for equations/LaTeX
+mathtext.fontset : cm
